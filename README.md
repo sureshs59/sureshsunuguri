@@ -65,4 +65,4 @@ Python | Pandas | NumPy | scikit-learn | OpenAI API
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (Add your link)
+- LinkedIn: www.linkedin.com/in/suresh-sunuguri
