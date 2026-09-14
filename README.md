@@ -4,7 +4,7 @@
 
 ### Senior Software Engineer → AI/ML Engineer
 
-*17+ years building enterprise systems · Now building intelligent ones*
+*15+ years building enterprise systems · Now building intelligent ones*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suresh%20Sunuguri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-sunuguri)
 [![Profile Views](https://komarev.com/ghpvc/?username=suresh-sunuguri&style=for-the-badge&color=0077B5)](https://github.com/sureshs59/sureshsunuguri)
@@ -19,12 +19,12 @@
 2007 ──────────────────────────────────────────► 2024 ──────► 2026
   │                                                 │             │
 Java Engineer                           Senior SWE  │        AI Engineer
-Spring Boot · Microservices · AWS       17 yrs exp  │    ML · LLMs · RAG
+Spring Boot · Microservices · AWS       15 yrs exp  │    ML · LLMs · RAG
                                                      │
                                               🔄 Transitioning NOW
 ```
 
-> *"17 years of enterprise engineering taught me how to build systems at scale.
+> *"15 years of enterprise engineering taught me how to build systems at scale.
 > Now I'm applying that discipline to Artificial Intelligence."*
 
 ---
@@ -79,7 +79,7 @@ Spring Boot · Microservices · AWS       17 yrs exp  │    ML · LLMs · RAG
 
 ## 🛠️ Tech Stack
 
-### 🔵 Enterprise Engineering (17 Years)
+### 🔵 Enterprise Engineering (15 Years)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logo=consul&logoColor=white)
@@ -143,10 +143,10 @@ Q4 2026  ██░░░░░░░░░░░░░░░░░░  Land AI E
 ```
 Most ML Engineers          |    Suresh Sunuguri
 ─────────────────────────────────────────────────────
-Know ML, not systems       |  17 yrs building production systems at scale
+Know ML, not systems       |  15 yrs building production systems at scale
 Build models, not products |  Knows how to ship AI into enterprise software
 Jupyter notebooks only     |  Microservices + Kafka + AWS + AI = full stack
-0-2 yrs experience         |  17 yrs enterprise + growing AI expertise
+0-2 yrs experience         |  15 yrs enterprise + growing AI expertise
 ```
 
 ---
